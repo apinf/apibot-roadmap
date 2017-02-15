@@ -15,3 +15,10 @@ At this stage it is developed against two systems:
 Eventually aim is to make generally used API bot that can be integrated to various chat environments such as Slack and HipChat and API management systems such as 3Scale, AWS API management and Azure API management. We are not excluding IRC integration either. 
 
 
+## Roadmap 2017
+
+- By end of Feb: Design PoC features (in issues)
+- By end of Feb: Select chat environment and open source bot engine to use
+- During March: Implementation 
+- During April- June: Testing and collecting feedback
+- July: Evaluation of results and decision about future

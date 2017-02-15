@@ -1,5 +1,5 @@
 # APInf-bot
-This is API management ChatBot which can be used by API consumers (developers/APIOps) and API owners (APItalist). This project is selected as one of the side tracks in APInf Oy development. This project is an experiment through which we gain insight about the needs and opportunities in this realm. 
+This is API management ChatBot which can be used by API consumers (developers/APIOps) and API owners (APItalist). This project is selected as one of the side tracks in APInf Oy development. This project is an experiment through which we gain insight about the needs and opportunities in this realm. Development will be open and code will be open source (MIT). 
 
 
 ## Short term aim  
@@ -12,6 +12,6 @@ At this stage it is developed against two systems:
 - Chat environment (to be selected soon)
 
 ## Long term aim  
-Eventually aim is to make generally used API bot that can be integrated to various chat environments why not even IRC. 
+Eventually aim is to make generally used API bot that can be integrated to various chat environments such as Slack and HipChat and API management systems such as 3Scale, AWS API management and Azure API management. We are not excluding IRC integration either. 
 
 

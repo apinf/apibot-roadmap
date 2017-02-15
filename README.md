@@ -4,7 +4,8 @@ This is API management ChatBot which can be used by API consumers (developers/AP
 
 ## Short term aim  
 
-Evaluate API bot idea by implementing PoC level bot. Take it into use with apinf.io API management and collect feedback from customers and developer community. 
+Evaluate API bot idea by implementing MVP level bot. Take it into use with apinf.io API management and collect feedback from customers and developer community. MVP stands for Minimum Viable Product. 
+![MVP](https://pbs.twimg.com/media/C4sSZURW8AA8k7S.jpg:large)
 
 At this stage it is developed against two systems: 
 

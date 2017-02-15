@@ -14,6 +14,8 @@ At this stage it is developed against two systems:
 ## Long term aim  
 Eventually aim is to make generally used API bot that can be integrated to various chat environments such as Slack and HipChat and API management systems such as 3Scale, AWS API management and Azure API management. We are not excluding IRC integration either. 
 
+## Why - reasoning for doing this
+First of all, it's intriguing idea. It is something we haven't seen yet (at least not open source). It fits our thinking about supporting APIOps (API value tool chain automation). Besides Chatbots are cool.  
 
 ## Roadmap 2017
 

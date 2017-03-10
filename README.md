@@ -20,8 +20,8 @@ First of all, it's intriguing idea. It is something we haven't seen yet (at leas
 
 ## Roadmap 2017
 
-- By end of Feb: Design PoC features (in issues)
-- By end of Feb: Select chat environment and open source bot engine to use
-- During March: Implementation 
-- During April- June: Testing and collecting feedback
+- By end of March: Design PoC features (in issues)
+- By end of March: Select chat environment and open source bot engine to use
+- During May: Implementation 
+- During June- July: Testing and collecting feedback
 - July: Evaluation of results and decision about future

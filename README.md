@@ -1,4 +1,4 @@
-# APInf-bot
+# apibot roadmap
 
 This is API management ChatBot which can be used by API consumers (developers/APIOps) and API owners (APItalist). This project is selected as one of the side tracks in APInf Oy development. This project is an experiment through which we gain insight about the needs and opportunities in this realm. Development will be open and code will be open source (EUPL).
 
